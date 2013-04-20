@@ -1,0 +1,9 @@
+http://www.eventbrite.com/org/1546488166?s=8828592
+http://www.eventbrite.com/org/1185461547?s=6396717
+http://www.eventbrite.com/org/1757675199?s=6402047
+
+found 4 typed-triples for url http://eventful.com/performers/P0-001-000174435-9
+22:46:15,823  INFO KnowledgeBase:80 - 	 type is: [http://www.w3.org/2006/vcard/ns#Name, http://www.w3.org/2006/vcard/ns#VCard, http://schema.org/MusicGroup, musician]
+=> check triple subject=url
+
+url_typeclasses.size : 19

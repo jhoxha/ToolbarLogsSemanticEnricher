@@ -1,0 +1,918 @@
+<url>http://upcoming.yahoo.com/venue/212103/QLD/Fortitude-Valley/Jubilee-Hotel/?show=past-only</url>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html version="XHTML+RDFa 1.0" xmlns="http://www.w3.org/1999/xhtml"
+ xmlns:vcal="http://www.w3.org/2002/12/cal/icaltzd#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:action="http://search.yahoo.com/searchmonkey/action/"
+  xmlns:media="http://search.yahoo.com/searchmonkey/media/"
+  xmlns:product="http://search.yahoo.com/searchmonkey/product/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<html>
+  <head>
+    <title>Venue: Jubilee Hotel - Upcoming</title>
+                                                                   
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Language" content="en-us">
+        <meta name="title" content="Venue: Jubilee Hotel">
+    <meta name="keywords" content="upcoming Venue: Jubilee Hotel">
+    <meta http-equiv="X-UA-Compatible" content="IE=7"/>
+    <meta name="verify-v1" content="S6riHTy4aqQhYzxbTmxrbL229QqGndjohgo6wDpIuao=" />
+    <!-- Combo-handled YUI CSS files: See bug 2130480 -->
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/d/combo?yui/2.5.1/build/reset-fonts-grids/reset-fonts-grids.css&yui/2.5.1/build/container/assets/skins/sam/container.css&platforms/vitality/disc/rm/disclosure-1.1.css">
+    <link rel="stylesheet" type="text/css" href="http://l.yimg.com/jb/css/default_1a7a7a133c38efac47724d270b2dcd20.css" /><link rel="stylesheet" type="text/css" href="http://l.yimg.com/jb/css/base_707283781634360e09d3f67a2fe1c9aa.css" />    <meta property="og:title" content="Jubilee Hotel" /><meta property="og:site_name" content="Yahoo! Upcoming" /><meta name="title" content="Jubilee Hotel" />  </head>
+  <body>
+    <div id="doc4">        
+      <div id="up-hd">
+        <div id="up-hd-user-websearch">
+          <div id="up-hd-user">
+	    	      <span>Welcome, Guest</span>
+	      <a href="https://login.yahoo.com/config/login_verify2?.pd=c%3D7VX_qHOp2e4WEc1FoX0E7L8-&.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3Dhttp%253A%252F%252Fupcoming.yahoo.com%252Fvenue%252F212103%252FQLD%252FFortitude-Valley%252FJubilee-Hotel%252F%253Fshow%253Dpast-only&.intl=us&.src=upcm">Sign In</a> |
+	      <a href="https://login.yahoo.com/config/eval_register?.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3Dhttp%253A%252F%252Fupcoming.yahoo.com%252Fvenue%252F212103%252FQLD%252FFortitude-Valley%252FJubilee-Hotel%252F%253Fshow%253Dpast-only&.intl=us&.src=upcm">Sign Up</a> |
+	        	    	    <a href="/help/">Help</a>
+                  |
+          <span class="up-hd-internal">
+          Recommendations Buckets
+          (
+                          <a href="/?.coke_bucket=rand">random</a>
+                        |
+                          <a href="/?.coke_bucket=up">upcoming</a>
+                      )
+          </span>
+                  </div>           <div id="up-hd-websearch">
+            <form id="up-hd-websearch-form" action="http://search.yahoo.com/search">
+              <div class="up-inline">
+                <label for="up-hd-websearch-q">Web search query term</label>
+                <input id="up-hd-websearch-q" name="p" type="text">
+                <button id="up-hd-websearch-button-go" class="up-palette2">Web Search</button>                                                
+              </div>
+            </form>
+          </div>         </div>         <div id="up-hd-logo-search-nav" class="up-palette1">
+          <div id="up-hd-search">
+           <a id="up-hd-search-logo" class="up-palette1" href="/">Upcoming</a>
+            <form id="up-hd-search-form" action="/search/">
+              <input type="hidden" id="up-hd-search-action-type" name="type" value="events">
+              <input type="hidden" id="up-hd-search-radius-toggle" name="rt" value="1">
+              <input type="hidden" id="up-hd-search-rollup-toggle" name="rollup" value="">
+
+              <span id="search-form-body">
+                <label for="up-hd-search-query">Search <span id="up-hd-search-query-label">Events</span></label>
+                <input id="up-hd-search-query" class="up-palette1 up-hd-search-query-notwide" name="q" type="text" value=""/>
+                <label for="up-hd-search-location" id="up-hd-search-location-label">City, State or Zip</label>
+                <input id="up-hd-search-location" class="up-palette1 up-hd-search-query-notwide  " name="loc" type="text" value="Barcelona" />
+                <div id="up-hd-search-buttons">
+                  <button id="up-hd-search-button-go" class="up-palette1">Search <span id="up-hd-search-button-label">Events</span></button>
+                  <button id="up-hd-search-button-change" class="up-palette1">Change Search Type</button>
+                </div>
+                <div id="up-hd-search-change" class="yuimenu">
+                  <div class="bd">
+                    <ul class="first-of-type">
+                      <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 up-hd-search-change-current" title="events" href="/event/">Events</a></li>
+                      <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 "  title="venues" href="/venue/">Venues</a></li>
+                      <!-- <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 " title="performers" href="/performer/">Performers</a></li> -->
+                      <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 " title="users" href="/friend/">Upcoming Users</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </span>
+            </form>
+          </div>           <ul id="up-hd-nav">
+            <li id="home"><a id="up-hd-nav-home" href="/">Home</a></li>
+            <li id="events">
+              <a href="/myevents/" id="up-hd-nav-events-link" class="up-hd-nav-menu-link">My Events</a>
+              <a href="/myevents/" id="up-hd-nav-events" class="up-hd-nav-menubtn up-palette2">More Events Links</a>
+                <div class="up-hd-nav-menu-container">
+                <div id="up-hd-nav-events-menu" class="yuimenu">
+                <div class="bd">
+                  <ul class="first-of-type">
+                    <li class="yuimenuitem"><a href="/myevents/">My Events</a></li>
+                    <li class="yuimenuitem"><a href="/myvenues/">My Venues</a></li>
+                    <li class="yuimenuitem"><a href="/group/">My Groups</a></li>
+                    <li class="yuimenuitem"><a href="/history/myevents/">My Scrapbook</a></li>
+                    <li class="yuimenuitem"><a href="/activity/">What's New For You</a></li>
+                    </ul> 
+                  </div>
+                  </div>
+                  </div>
+            </li>
+            <li id="friends">
+              <a href="/friend/" id="up-hd-nav-friends-link" class="up-hd-nav-menu-link">Friends</a>
+              <a href="/friend/" id="up-hd-nav-friends" class="up-hd-nav-menubtn up-palette2">More Friends Links</a>
+              <div class="up-hd-nav-menu-container">
+                <div id="up-hd-nav-friends-menu" class="yuimenu">
+                  <div class="bd">
+                    <ul class="first-of-type">
+                      <li class="yuimenuitem"><a href="/friend/event/">Friends' Events</a></li>
+                      <li class="yuimenuitem"><a href="/friend/">Friends List</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li id="more">
+              <a href="/more/" id="up-hd-nav-more-link" class="up-hd-nav-menu-link">More</a>
+              <a href="/more/" id="up-hd-nav-more" class="up-hd-nav-menubtn up-palette2">More Helpful Links</a>
+              <div class="up-hd-nav-menu-container">
+                <div id="up-hd-nav-more-menu" class="yuimenu">
+                  <div class="bd">
+                    <ul class="first-of-type">
+                      <li class="yuimenuitem"><a href="/group/">Groups</a></li>
+                      <li class="yuimenuitem"><a href="/place/">Places</a></li>
+                      <li class="yuimenuitem"><a href="/news/">News Blog</a></li>                                                                
+                      <li class="yuimenuitem"><a href="/badge/">Upcoming Badges</a></li>
+                      <li class="yuimenuitem"><a href="/services/api/">Developers API</a></li>
+                      <li class="yuimenuitem"><a href="http://community.upcoming.yahoo.com/">Suggestion Board</a></li>                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li id="add"><a id="up-hd-nav-add" class="up-palette2" href="/event/add/">Add An Event</a></li>
+            <li id="up-hd-nav-logo-container"><a id="up-hd-nav-logo" class="up-palette1" href="http://www.yahoo.com/">Yahoo!</a></li>
+          </ul>         </div>               </div>       <div id="up-bd">
+  <div id="up-followvenue-status" class="status followvenue-status"></div>
+<div id="yup-container"></div>
+
+             <div style="width:100%">
+               
+<div class="yui-g">
+  <div class="yui-u first">
+    
+    <div id="venue" class="location vcard">
+      <div class="venue-title">
+        <span class="fn org venue-title-text">
+          Jubilee Hotel        </span>
+        <span class="venue-follower-container">
+          <div class="up-venue-follower venue-follower-212103"><div class="venue-id">212103</div><a class="up-add-btn unfollow-venue-link" href="?show=past-only&unfollowvenue=212103">Remove from My Venues</a><a class="up-add-btn follow-venue-link" href="?show=past-only&followvenue=212103">Add to My Venues</a></div>        </span>
+      </div>
+
+        <div style="padding: 10px;">
+        <div class="address adr"><span class="street-address">470 St Pauls Tce</span><br />
+          <span class="locality">Fortitude Valley</span>, <span class="region">Queensland</span> <span class="postal-code">4006</span><br />
+          <span class="country">Australia            <br />
+	    <span class="tel">32524508</span>                    </div> <!-- /.address -->
+        
+                
+        
+        <div style="margin-top: 16px; margin-bottom: 8px;">
+                    <a href="https://login.yahoo.com/config/eval_register?.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3D%252Fvenue%252F212103%252FQLD%252FFortitude-Valley%252FJubilee-Hotel%252F%253Fshow%253Dpast-only&.intl=us&.src=upcm">Sign Up</a> or <a href="https://login.yahoo.com/config/login_verify2?.pd=c%3D7VX_qHOp2e4WEc1FoX0E7L8-&.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3D%252Fvenue%252F212103%252FQLD%252FFortitude-Valley%252FJubilee-Hotel%252F%253Fshow%253Dpast-only&.intl=us&.src=upcm">Sign In</a> to post events at this venue.
+          
+                  </div>
+        
+                <div class="byline">
+          Added on Wednesday, September  3, 2008 by
+	  <a href="/user/201946/;_ylt=A0LEaj8P22lQ3EUArAALbM0F;_ylu=X3oDMTEwZWJocjRkBF9wAzEEcGlkA1YtMjEyMTAzBHBvcwMxBHNlYwN2ZGV0;_ylv=3">groupie77</a>
+	            <br />
+          <br />
+          <a href="/user/201946/sendnote/"><img src="http://l.yimg.com/a/i/nt/ic/ut/alt3/mail12_1.gif" width="12" height="12" border="0" /> Send a Note to the user who added this venue</a><br />
+          <a href="/flag/venue/212103/"><img src="http://l.yimg.com/a/i/nt/ic/ut/bsc/flag12_1.gif" width="12" height="12" border="0" /> Report a Problem (Abuse, Duplicate, etc.)</a><br /><br />
+          
+          
+          
+        </div>
+        
+        
+      </div>
+
+    </div>
+      <span class="geo" style="visibility:hidden">
+    <abbr class="latitude" title="-27.4571200000">-27.4571200000</abbr> 
+    <abbr class="longitude" title="153.0353090000">153.0353090000</abbr>
+  </span>
+    </div>
+  <script type="text/javascript">
+    businessList = undefined;
+  </script>
+
+  <script type="text/javascript">
+	  businessList = undefined;
+  </script>
+  <div class="yui-u">
+          <div class="map">
+        <div id="staticMapContainer" style="height: 240px; width: 400px;">
+            <a href="http://maps.yahoo.com/maps_result.php?addr=470+St+Pauls+Tce&csz=Fortitude+Valley%2Cqld%2C4006&country=au&mag=5"><img src="http://gws2.maps.yahoo.com/MapImage?appid=upcoming&clat=-27.4571200000&clon=153.0353090000&zoom=15&imh=240&imw=450&mflags=YKM&imi=mrk_str" /></a>
+        </div>
+
+        <form style="display:none;">
+          <input type="hidden" id="mapLat" value="-27.4571200000" />
+          <input type="hidden" id="mapLon" value="153.0353090000" />
+          <input type="hidden" id="woeRadius" value="1000" />
+          <input type="hidden" id="woeConfidence" value="50" />
+        </form>
+      </div>
+            <div class="directions">
+        <a href="http://maps.yahoo.com/dd?taddr=470+St+Pauls+Tce&tcsz=Fortitude+Valley%2Cqld%2C4006&tcountry=au">Driving directions</a> / <a href="http://maps.yahoo.com/maps_result.php?addr=470+St+Pauls+Tce&csz=Fortitude+Valley%2Cqld%2C4006&country=au&mag=5">larger map</a>
+      </div>
+      
+            
+        </div>
+</div>
+ <br clear="left" />
+<ul id="scopeTabs">
+<li><a href="?show=upcoming-only" >Upcoming Events</a></li>
+<li><a href="?show=past-only" class="active">Past Events Here</a></li>
+</ul>
+<table style="margin-bottom: 20px;">
+  <tr class="header">
+    <td>Date</td> 
+    <td>Event Name</td>
+    <td align="center">Comments</td>
+  </tr>
+    <tr>
+    <td class="even">
+            Oct 30, 2010          </td>
+    <td class="even">
+      <a href="/event/7229540/QLD/Fortitude-Valley/PTAA-National-Tattoo-Convention/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUArQALbM0F;_ylu=X3oDMTE2ZjN2OGw0BF9wAzEEcGlkA0UtNzIyOTU0MARwb3MDMQRzZWMDdmRldGVwYXN0;_ylv=3">P.T.A.A National Tattoo Convention</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Aug 14, 2010          </td>
+    <td class="odd">
+      <a href="/event/6600065/QLD/Fortitude-Valley/Wrecking-Ball/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUArgALbM0F;_ylu=X3oDMTE2Nm40YXJvBF9wAzEEcGlkA0UtNjYwMDA2NQRwb3MDMgRzZWMDdmRldGVwYXN0;_ylv=3">Wrecking Ball</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Aug 13, 2010          </td>
+    <td class="even">
+      <a href="/event/6617515/QLD/Fortitude-Valley/A-Buckin-Good-Time/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUArwALbM0F;_ylu=X3oDMTE2aGpvNHZvBF9wAzEEcGlkA0UtNjYxNzUxNQRwb3MDMwRzZWMDdmRldGVwYXN0;_ylv=3">A Buckin Good Time</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jul 18, 2010          </td>
+    <td class="odd">
+      <a href="/event/6575249/QLD/Fortitude-Valley/Queensland-Fesitval-of-Blues/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAsAALbM0F;_ylu=X3oDMTE2Mzc4Z2M1BF9wAzEEcGlkA0UtNjU3NTI0OQRwb3MDNARzZWMDdmRldGVwYXN0;_ylv=3">Queensland Fesitval of Blues</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jul 17, 2010          </td>
+    <td class="even">
+      <a href="/event/6575250/QLD/Fortitude-Valley/Queensland-Fesitval-of-Blues/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAsQALbM0F;_ylu=X3oDMTE2ZTFuM2VhBF9wAzEEcGlkA0UtNjU3NTI1MARwb3MDNQRzZWMDdmRldGVwYXN0;_ylv=3">Queensland Fesitval of Blues</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jul 03, 2010          </td>
+    <td class="odd">
+      <a href="/event/5961151/QLD/Fortitude-Valley/Dead-of-Winter-Festival/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAsgALbM0F;_ylu=X3oDMTE2aWRlNmp2BF9wAzEEcGlkA0UtNTk2MTE1MQRwb3MDNgRzZWMDdmRldGVwYXN0;_ylv=3">Dead of Winter Festival</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jun 26, 2010          </td>
+    <td class="even">
+      <a href="/event/6012789/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAswALbM0F;_ylu=X3oDMTE2cDdqY2EyBF9wAzEEcGlkA0UtNjAxMjc4OQRwb3MDNwRzZWMDdmRldGVwYXN0;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jun 13, 2010          </td>
+    <td class="odd">
+      <a href="/event/6012802/QLD/Fortitude-Valley/4ZZZ-Brain-Banana/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAtAALbM0F;_ylu=X3oDMTE2bm5iaDJyBF9wAzEEcGlkA0UtNjAxMjgwMgRwb3MDOARzZWMDdmRldGVwYXN0;_ylv=3">4ZZZ Brain Banana</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jun 12, 2010          </td>
+    <td class="even">
+      <a href="/event/6012790/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAtQALbM0F;_ylu=X3oDMTE2MDVlMmFmBF9wAzEEcGlkA0UtNjAxMjc5MARwb3MDOQRzZWMDdmRldGVwYXN0;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jun 05, 2010          </td>
+    <td class="odd">
+      <a href="/event/5925837/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAtgALbM0F;_ylu=X3oDMTE3bTg1bTMxBF9wAzEEcGlkA0UtNTkyNTgzNwRwb3MDMTAEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jun 05, 2010          </td>
+    <td class="even">
+      <a href="/event/5925821/QLD/Fortitude-Valley/Loud-Festival/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAtwALbM0F;_ylu=X3oDMTE3Z285cnI5BF9wAzEEcGlkA0UtNTkyNTgyMQRwb3MDMTEEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Loud Festival</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            May 29, 2010          </td>
+    <td class="odd">
+      <a href="/event/5925839/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAuAALbM0F;_ylu=X3oDMTE3dHFpMHBnBF9wAzEEcGlkA0UtNTkyNTgzOQRwb3MDMTIEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            May 28, 2010          </td>
+    <td class="even">
+      <a href="/event/5961148/QLD/Fortitude-Valley/Alternative-Club/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAuQALbM0F;_ylu=X3oDMTE3MGQ2MjA0BF9wAzEEcGlkA0UtNTk2MTE0OARwb3MDMTMEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Alternative Club</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            May 22, 2010          </td>
+    <td class="odd">
+      <a href="/event/5925844/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAugALbM0F;_ylu=X3oDMTE3MnI2NmIxBF9wAzEEcGlkA0UtNTkyNTg0NARwb3MDMTQEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            May 22, 2010          </td>
+    <td class="even">
+      <a href="/event/5961149/QLD/Fortitude-Valley/Punkfest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAuwALbM0F;_ylu=X3oDMTE3djk3MTUxBF9wAzEEcGlkA0UtNTk2MTE0OQRwb3MDMTUEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Punkfest</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            May 15, 2010          </td>
+    <td class="odd">
+      <a href="/event/5925841/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAvAALbM0F;_ylu=X3oDMTE3MG4yNWFlBF9wAzEEcGlkA0UtNTkyNTg0MQRwb3MDMTYEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            May 14, 2010          </td>
+    <td class="even">
+      <a href="/event/5925832/QLD/Fortitude-Valley/Alternative-Club/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAvQALbM0F;_ylu=X3oDMTE3bTMxaWJwBF9wAzEEcGlkA0UtNTkyNTgzMgRwb3MDMTcEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Alternative Club</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Mar 12, 2010          </td>
+    <td class="odd">
+      <a href="/event/4927546/QLD/Fortitude-Valley/Switch-Nightclub/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAvgALbM0F;_ylu=X3oDMTE3dnI2NTBuBF9wAzEEcGlkA0UtNDkyNzU0NgRwb3MDMTgEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Switch Nightclub</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Feb 26, 2010          </td>
+    <td class="even">
+      <a href="/event/4927538/QLD/Fortitude-Valley/Switch-Nightclub/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAvwALbM0F;_ylu=X3oDMTE3ZTljdW04BF9wAzEEcGlkA0UtNDkyNzUzOARwb3MDMTkEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Switch Nightclub</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Feb 12, 2010          </td>
+    <td class="odd">
+      <a href="/event/4927562/QLD/Fortitude-Valley/Switch-Nightclub/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAwAALbM0F;_ylu=X3oDMTE3ZGFpMGgzBF9wAzEEcGlkA0UtNDkyNzU2MgRwb3MDMjAEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Switch Nightclub</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 29, 2010          </td>
+    <td class="even">
+      <a href="/event/4927571/QLD/Fortitude-Valley/Switch-Nightclub/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAwQALbM0F;_ylu=X3oDMTE3M3Y3M3I4BF9wAzEEcGlkA0UtNDkyNzU3MQRwb3MDMjEEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Switch Nightclub</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 15, 2010          </td>
+    <td class="odd">
+      <a href="/event/4927567/QLD/Fortitude-Valley/Switch-Nightclub/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAwgALbM0F;_ylu=X3oDMTE3MjhmampuBF9wAzEEcGlkA0UtNDkyNzU2NwRwb3MDMjIEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Switch Nightclub</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 09, 2010          </td>
+    <td class="even">
+      <a href="/event/4927586/QLD/Fortitude-Valley/Punkfest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAwwALbM0F;_ylu=X3oDMTE3bmFzb2QzBF9wAzEEcGlkA0UtNDkyNzU4NgRwb3MDMjMEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Punkfest</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 08, 2010          </td>
+    <td class="odd">
+      <a href="/event/4927575/QLD/Fortitude-Valley/QPunk-Magazine-Launch/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAxAALbM0F;_ylu=X3oDMTE3dG5kZTZhBF9wAzEEcGlkA0UtNDkyNzU3NQRwb3MDMjQEc2VjA3ZkZXRlcGFzdA--;_ylv=3">QPunk Magazine Launch</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 02, 2010          </td>
+    <td class="even">
+      <a href="/event/4896823/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAxQALbM0F;_ylu=X3oDMTE3OGJudHBzBF9wAzEEcGlkA0UtNDg5NjgyMwRwb3MDMjUEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 31, 2009          </td>
+    <td class="odd">
+      <a href="/event/4880946/QLD/Fortitude-Valley/Punkfest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAxgALbM0F;_ylu=X3oDMTE3dDQwaDFjBF9wAzEEcGlkA0UtNDg4MDk0NgRwb3MDMjYEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Punkfest</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 26, 2009          </td>
+    <td class="even">
+      <a href="/event/4896824/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAxwALbM0F;_ylu=X3oDMTE3MHZkOTNxBF9wAzEEcGlkA0UtNDg5NjgyNARwb3MDMjcEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 24, 2009          </td>
+    <td class="odd">
+      <a href="/event/4880954/QLD/Fortitude-Valley/Punkfest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAyAALbM0F;_ylu=X3oDMTE3MGhjampzBF9wAzEEcGlkA0UtNDg4MDk1NARwb3MDMjgEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Punkfest</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 19, 2009          </td>
+    <td class="even">
+      <a href="/event/4880975/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAyQALbM0F;_ylu=X3oDMTE3NjVrZm1hBF9wAzEEcGlkA0UtNDg4MDk3NQRwb3MDMjkEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 12, 2009          </td>
+    <td class="odd">
+      <a href="/event/4880973/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAygALbM0F;_ylu=X3oDMTE3ZTA4OWMxBF9wAzEEcGlkA0UtNDg4MDk3MwRwb3MDMzAEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 05, 2009          </td>
+    <td class="even">
+      <a href="/event/4879917/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAywALbM0F;_ylu=X3oDMTE3YmhkOHVuBF9wAzEEcGlkA0UtNDg3OTkxNwRwb3MDMzEEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 05, 2009          </td>
+    <td class="odd">
+      <a href="/event/4880955/QLD/Fortitude-Valley/4ZZZ-Birthday-Party/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAzAALbM0F;_ylu=X3oDMTE3aTFpcmJnBF9wAzEEcGlkA0UtNDg4MDk1NQRwb3MDMzIEc2VjA3ZkZXRlcGFzdA--;_ylv=3">4ZZZ Birthday Party</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 29, 2009          </td>
+    <td class="even">
+      <a href="/event/4561937/QLD/Fortitude-Valley/BASEQ-Blues-Jam/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAzQALbM0F;_ylu=X3oDMTE3cHRnMzBvBF9wAzEEcGlkA0UtNDU2MTkzNwRwb3MDMzMEc2VjA3ZkZXRlcGFzdA--;_ylv=3">BASEQ Blues Jam</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Nov 28, 2009          </td>
+    <td class="odd">
+      <a href="/event/4879916/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAzgALbM0F;_ylu=X3oDMTE3dDhrMjNvBF9wAzEEcGlkA0UtNDg3OTkxNgRwb3MDMzQEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 28, 2009          </td>
+    <td class="even">
+      <a href="/event/4635625/QLD/Fortitude-Valley/Dub-Day-Afternoon/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUAzwALbM0F;_ylu=X3oDMTE3aWJvNzMyBF9wAzEEcGlkA0UtNDYzNTYyNQRwb3MDMzUEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Dub Day Afternoon</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Nov 21, 2009          </td>
+    <td class="odd">
+      <a href="/event/4806462/QLD/Fortitude-Valley/Darkside/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA0AALbM0F;_ylu=X3oDMTE3ZmkyY3FsBF9wAzEEcGlkA0UtNDgwNjQ2MgRwb3MDMzYEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Darkside</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 21, 2009          </td>
+    <td class="even">
+      <a href="/event/4879919/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA0QALbM0F;_ylu=X3oDMTE3MHE5bWxzBF9wAzEEcGlkA0UtNDg3OTkxOQRwb3MDMzcEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Nov 14, 2009          </td>
+    <td class="odd">
+      <a href="/event/4879918/QLD/Fortitude-Valley/Saturday-Night-Live/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA0gALbM0F;_ylu=X3oDMTE3ZXYxOTZpBF9wAzEEcGlkA0UtNDg3OTkxOARwb3MDMzgEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Saturday Night Live</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 14, 2009          </td>
+    <td class="even">
+      <a href="/event/4806308/QLD/Fortitude-Valley/Old-State-Tattoo-Show/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA0wALbM0F;_ylu=X3oDMTE3NnA1aTdvBF9wAzEEcGlkA0UtNDgwNjMwOARwb3MDMzkEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Old State Tattoo Show</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Oct 31, 2009          </td>
+    <td class="odd">
+      <a href="/event/4634469/QLD/Fortitude-Valley/Noise6/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA1AALbM0F;_ylu=X3oDMTE3YjV1Nmo4BF9wAzEEcGlkA0UtNDYzNDQ2OQRwb3MDNDAEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Noise6</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Oct 25, 2009          </td>
+    <td class="even">
+      <a href="/event/4561938/QLD/Fortitude-Valley/BASEQ-Blues-Jam/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA1QALbM0F;_ylu=X3oDMTE3cXU0bG10BF9wAzEEcGlkA0UtNDU2MTkzOARwb3MDNDEEc2VjA3ZkZXRlcGFzdA--;_ylv=3">BASEQ Blues Jam</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Oct 18, 2009          </td>
+    <td class="odd">
+      <a href="/event/4634293/QLD/Fortitude-Valley/Old-State-Tattoo-Show/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA1gALbM0F;_ylu=X3oDMTE3ZDA0dGZxBF9wAzEEcGlkA0UtNDYzNDI5MwRwb3MDNDIEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Old State Tattoo Show</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Oct 17, 2009          </td>
+    <td class="even">
+      <a href="/event/4561921/QLD/Fortitude-Valley/Punkfest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA1wALbM0F;_ylu=X3oDMTE3ZmFtMHJ2BF9wAzEEcGlkA0UtNDU2MTkyMQRwb3MDNDMEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Punkfest</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Oct 16, 2009          </td>
+    <td class="odd">
+      <a href="/event/4561922/QLD/Fortitude-Valley/Unleashed/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA2AALbM0F;_ylu=X3oDMTE3ZjUzMjUxBF9wAzEEcGlkA0UtNDU2MTkyMgRwb3MDNDQEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Unleashed</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Oct 10, 2009          </td>
+    <td class="even">
+      <a href="/event/4561923/QLD/Fortitude-Valley/BASEQ-Birthday-Bash/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA2QALbM0F;_ylu=X3oDMTE3bDVhb21sBF9wAzEEcGlkA0UtNDU2MTkyMwRwb3MDNDUEc2VjA3ZkZXRlcGFzdA--;_ylv=3">BASEQ Birthday Bash</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Aug 15, 2009          </td>
+    <td class="odd">
+      <a href="/event/4165626/QLD/Fortitude-Valley/Mad-Cow-Fest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA2gALbM0F;_ylu=X3oDMTE3dDFhbDRyBF9wAzEEcGlkA0UtNDE2NTYyNgRwb3MDNDYEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Mad Cow Fest</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Aug 14, 2009          </td>
+    <td class="even">
+      <a href="/event/4223910/QLD/Fortitude-Valley/Mad-Cow-Fest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA2wALbM0F;_ylu=X3oDMTE3ZnVyOG9oBF9wAzEEcGlkA0UtNDIyMzkxMARwb3MDNDcEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Mad Cow Fest</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Aug 13, 2009          </td>
+    <td class="odd">
+      <a href="/event/4223924/QLD/Fortitude-Valley/Mad-Cow-Fest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA3AALbM0F;_ylu=X3oDMTE3c3NnMnRvBF9wAzEEcGlkA0UtNDIyMzkyNARwb3MDNDgEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Mad Cow Fest</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Aug 11, 2009          </td>
+    <td class="even">
+      <a href="/event/4223919/QLD/Fortitude-Valley/Mad-Cow-Fest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA3QALbM0F;_ylu=X3oDMTE3NjFzamxvBF9wAzEEcGlkA0UtNDIyMzkxOQRwb3MDNDkEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Mad Cow Fest</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Oct 25, 2008          </td>
+    <td class="odd">
+      <a href="/event/1195004/QLD/Fortitude-Valley/Punk-Fest/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA3gALbM0F;_ylu=X3oDMTE3MWwzbm5xBF9wAzEEcGlkA0UtMTE5NTAwNARwb3MDNTAEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Punk Fest</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Sep 27, 2008          </td>
+    <td class="even">
+      <a href="/event/1092581/QLD/Fortitude-Valley/4ZZZ-Fundraiser/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA3wALbM0F;_ylu=X3oDMTE3dTA3MW51BF9wAzEEcGlkA0UtMTA5MjU4MQRwb3MDNTEEc2VjA3ZkZXRlcGFzdA--;_ylv=3">4ZZZ Fundraiser</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Sep 13, 2008          </td>
+    <td class="odd">
+      <a href="/event/1072294/QLD/Fortitude-Valley/JohnnyCashTributeV/Jubilee-Hotel/;_ylt=A0LEaj8P22lQ3EUA4AALbM0F;_ylu=X3oDMTE3cGxpMnA2BF9wAzEEcGlkA0UtMTA3MjI5NARwb3MDNTIEc2VjA3ZkZXRlcGFzdA--;_ylv=3">Johnny_Cash_Tribute_V</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    
+</table>
+             </div>
+             
+                       <form onsubmit="javascript: return false;">
+            <input type="hidden" id="_cmb" name="_cmb" value="RQBFsolfYQ2" />
+          </form>
+        <div class="up-clearb"></div>
+      </div>       <dl id="up-ft">
+        <dt>Tools</dt>
+	<dd>
+	  <a href="/badge/">Upcoming Badges for Your Blog/Website</a> |
+	  <a href="/group/">Groups</a> |
+          <a href="/services/api/">Developers API</a>
+        </dd>
+        <dt>Help</dt>
+        <dd>
+	      <a href="/news/">News Blog</a> |
+	      <a href="/help/guidelines/">Community Guidelines</a> |
+          <a href="/help/faq/;_ylt=A0LEaj8P22lQ3EUA4QALbM0F;_ylv=3">FAQ</a> |
+	      <a href="/contact/">Contact Us</a> |
+        
+	      <a href="http://community.upcoming.yahoo.com/">Suggestions</a> |
+        
+          <a href="/help/about/">About Us</a>
+        </dd>
+        <dt class="up-ft-copyright">Copyright &copy; 2012 Yahoo! Inc. All rights reserved.</dt>
+        <dd class="up-ft-copyright">
+	  <a href="http://docs.yahoo.com/info/copyright/copyright.html">Copyright/IP Policy</a> -
+	  <a href="http://docs.yahoo.com/info/terms/">Terms of Service</a> -
+          <a href="http://privacy.yahoo.com/privacy/us/upcoming/">Privacy Policy</a> -
+          <a href="http://info.yahoo.com/relevantads/">About Our Ads</a>
+        </dd>
+      </dl>
+    </div>     <!-- getStatisfaction fastpass -->
+        <!-- Combo-handled YUI JS files: See bug 2131480 -->
+    <script src="http://l.yimg.com/d/combo?yui/2.5.1/build/utilities/utilities.js&yui/2.6.0/build/datasource/datasource-min.js&yui/2.5.1/build/autocomplete/autocomplete-min.js&yui/2.5.1/build/calendar/calendar-min.js&yui/2.5.1/build/container/container-min.js&yui/2.5.1/build/cookie/cookie-beta-min.js&yui/2.8.0r4/build/json/json-min.js&yui/2.5.1/build/menu/menu-min.js&yui/2.5.1/build/tabview/tabview-min.js&yui/2.8.0r4/build/yahoo/yahoo-min.js&yui/2.8.0r4/build/event/event-min.js&yui/2.8.0r4/build/connection/connection_core-min.js&yui/2.8.0r4/build/connection/connection-min.js&yui/2.8.0r4/build/yahoo-dom-event/yahoo-dom-event.js&yui/2.8.0r4/build/selector/selector-min.js&ult/ylc_1.9.js&ult/strip_1.12.js&platforms/vitality/disc/rm/disclosure-1.3.js"></script>
+        <script type="text/javascript" src="http://l.yimg.com/jb/js/footer.minify_f2b3e4f7be5e8a115f20c8adbf3c7716.js"></script><script type="text/javascript" src="http://l.yimg.com/jb/js/ajaxymaphack_92c417de4693273dbd618abd24b9f4a6.js"></script><script type="text/javascript" src="http://l.yimg.com/jb/js/venue_widget_a205ba4f6b082f1fd19e54f02e742e6f.js"></script><script type="text/javascript"
+src="http://l.yimg.com/d/lib/rt/rto1_78.js"></script><script>var rt_page="97348619:FRTMA"; var
+rt_ip="213.27.241.137";
+if ("function" == typeof(rt_AddVar) ){ rt_AddVar("ys", escape("3F6AC442")); rt_AddVar("cr", escape(""));
+rt_AddVar("sg", escape("/SIG=113n4lrqe/1349114640/213.27.241.137/3F6AC442")); rt_AddVar("yd", escape("3010919573"));
+}</script><noscript><img src="http://rtb.pclick.yahoo.com/images/nojs.gif?p=97348619:FRTMA"></noscript><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['.rlwA0Je5kQ-']='&U=13ge3m0cd%2fN%3d.rlwA0Je5kQ-%2fC%3d289534.10399734.11039816.10073328%2fD%3dFOOT%2fB%3d4466047%2fV%3d1';
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=iIZv1dG_U0Jxq59PXOZUMgiF1RvxiVBp2w8AAzzf&T=181v3tk73%2fX%3d1349114640%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d2699274139%2fH%3dc2VydmVJZD0iaUladjFkR19VMEp4cTU5UFhPWlVNZ2lGMVJ2eGlWQnAydzhBQXp6ZiIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM0OTExNDY0MDQ0NDgzMCIg%2fQ%3d-1%2fS%3d1%2fJ%3d3F6AC442&U=13ge3m0cd%2fN%3d.rlwA0Je5kQ-%2fC%3d289534.10399734.11039816.10073328%2fD%3dFOOT%2fB%3d4466047%2fV%3d1"></noscript><!--QYZ FAC_DONT_USE,;;;97348619;11;--><!-- gd2-status-2 --><!-- SpaceID=97348619 loc=FSRVY noad -->
+<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['.7lwA0Je5kQ-']='&U=12d0iu8cc%2fN%3d.7lwA0Je5kQ-%2fC%3d-1%2fD%3dFSRVY%2fB%3d-1%2fV%3d0';
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=iIZv1dG_U0Jxq59PXOZUMgiF1RvxiVBp2w8AAzzf&T=1806ev69p%2fX%3d1349114640%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d178931868%2fH%3dc2VydmVJZD0iaUladjFkR19VMEp4cTU5UFhPWlVNZ2lGMVJ2eGlWQnAydzhBQXp6ZiIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM0OTExNDY0MDQ0NDgzMCIg%2fQ%3d-1%2fS%3d1%2fJ%3d3F6AC442&U=12d0iu8cc%2fN%3d.7lwA0Je5kQ-%2fC%3d-1%2fD%3dFSRVY%2fB%3d-1%2fV%3d0"></noscript><!--QYZ CMS_NONE_SELECTED,;;FSRVY;97348619;2;--><!-- Yahoo! Web Analytics - All rights reserved --> 
+<script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"></script>
+<script type="text/javascript">
+var YWATracker = YWA.getTracker("1000487515489"); 
+YWATracker.submit();
+</script>
+<noscript> <div><img src="http://a.analytics.yahoo.com/p.pl?a=1000487515489&amp;js=no"
+width="1" height="1" alt="" /></div> </noscript>
+<!-- End of Yahoo! Web Analytics Code -->
+  </body>
+</html>
+             
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/d/lib/bc/bc_2.0.5.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=iIZv1dG_U0Jxq59PXOZUMgiF1RvxiVBp2w8AAzzf&T=17shkhttn%2fX%3d1349114640%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2044105776%2fH%3dc2VydmVJZD0iaUladjFkR19VMEp4cTU5UFhPWlVNZ2lGMVJ2eGlWQnAydzhBQXp6ZiIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM0OTExNDY0MDQ0NDgzMCIg%2fS%3d1%2fJ%3d3F6AC442');
+if(window.yzq_s)yzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=iIZv1dG_U0Jxq59PXOZUMgiF1RvxiVBp2w8AAzzf&T=181dikirg%2fX%3d1349114640%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2944878632%2fH%3dc2VydmVJZD0iaUladjFkR19VMEp4cTU5UFhPWlVNZ2lGMVJ2eGlWQnAydzhBQXp6ZiIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM0OTExNDY0MDQ0NDgzMCIg%2fQ%3d-1%2fS%3d1%2fJ%3d3F6AC442"></noscript><script language=javascript>
+(function(){window.xzq_p=function(R){M=R};window.xzq_svr=function(R){J=R};function F(S){var T=document;if(T.xzq_i==null){T.xzq_i=new Array();T.xzq_i.c=0}var R=T.xzq_i;R[++R.c]=new Image();R[R.c].src=S}window.xzq_sr=function(){var S=window;var Y=S.xzq_d;if(Y==null){return }if(J==null){return }var T=J+M;if(T.length>P){C();return }var X="";var U=0;var W=Math.random();var V=(Y.hasOwnProperty!=null);var R;for(R in Y){if(typeof Y[R]=="string"){if(V&&!Y.hasOwnProperty(R)){continue}if(T.length+X.length+Y[R].length<=P){X+=Y[R]}else{if(T.length+Y[R].length>P){}else{U++;N(T,X,U,W);X=Y[R]}}}}if(U){U++}N(T,X,U,W);C()};function N(R,U,S,T){if(U.length>0){R+="&al="}F(R+U+"&s="+S+"&r="+T)}function C(){window.xzq_d=null;M=null;J=null}function K(R){xzq_sr()}function B(R){xzq_sr()}function L(U,V,W){if(W){var R=W.toString();var T=U;var Y=R.match(new RegExp("\\\\(([^\\\\)]*)\\\\)"));Y=(Y[1].length>0?Y[1]:"e");T=T.replace(new RegExp("\\\\([^\\\\)]*\\\\)","g"),"("+Y+")");if(R.indexOf(T)<0){var X=R.indexOf("{");if(X>0){R=R.substring(X,R.length)}else{return W}R=R.replace(new RegExp("([^a-zA-Z0-9$_])this([^a-zA-Z0-9$_])","g"),"$1xzq_this$2");var Z=T+";var rv = f( "+Y+",this);";var S="{var a0 = '"+Y+"';var ofb = '"+escape(R)+"' ;var f = new Function( a0, 'xzq_this', unescape(ofb));"+Z+"return rv;}";return new Function(Y,S)}else{return W}}return V}window.xzq_eh=function(){if(E||I){this.onload=L("xzq_onload(e)",K,this.onload,0);if(E&&typeof (this.onbeforeunload)!=O){this.onbeforeunload=L("xzq_dobeforeunload(e)",B,this.onbeforeunload,0)}}};window.xzq_s=function(){setTimeout("xzq_sr()",1)};var J=null;var M=null;var Q=navigator.appName;var H=navigator.appVersion;var G=navigator.userAgent;var A=parseInt(H);var D=Q.indexOf("Microsoft");var E=D!=-1&&A>=4;var I=(Q.indexOf("Netscape")!=-1||Q.indexOf("Opera")!=-1)&&A>=4;var O="undefined";var P=2000})();
+</script><script language=javascript>
+if(window.xzq_svr)xzq_svr('http://csc.beap.bc.yahoo.com/');
+if(window.xzq_p)xzq_p('yi?bv=1.0.0&bs=(128dchj0m(gid$iIZv1dG_U0Jxq59PXOZUMgiF1RvxiVBp2w8AAzzf,st$1349114640444830,v$1.0))&t=J_3-D_3');
+if(window.xzq_s)xzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://csc.beap.bc.yahoo.com/yi?bv=1.0.0&bs=(128dchj0m(gid$iIZv1dG_U0Jxq59PXOZUMgiF1RvxiVBp2w8AAzzf,st$1349114640444830,v$1.0))&t=J_3-D_3"></noscript>
+<!-- w7.up.mud.yahoo.com uncompressed/chunked Mon Oct  1 11:03:59 PDT 2012 -->

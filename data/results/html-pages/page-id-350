@@ -1,0 +1,971 @@
+<url>http://upcoming.yahoo.com/venue/83034/GA/Atlanta/Loca-Luna/</url>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html version="XHTML+RDFa 1.0" xmlns="http://www.w3.org/1999/xhtml"
+ xmlns:vcal="http://www.w3.org/2002/12/cal/icaltzd#"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:action="http://search.yahoo.com/searchmonkey/action/"
+  xmlns:media="http://search.yahoo.com/searchmonkey/media/"
+  xmlns:product="http://search.yahoo.com/searchmonkey/product/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<html>
+  <head>
+    <title>Venue: Loca Luna - Upcoming</title>
+                                                                   
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Language" content="en-us">
+        <meta name="title" content="Venue: Loca Luna">
+    <meta name="keywords" content="upcoming Venue: Loca Luna">
+    <meta http-equiv="X-UA-Compatible" content="IE=7"/>
+    <meta name="verify-v1" content="S6riHTy4aqQhYzxbTmxrbL229QqGndjohgo6wDpIuao=" />
+    <!-- Combo-handled YUI CSS files: See bug 2130480 -->
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/d/combo?yui/2.5.1/build/reset-fonts-grids/reset-fonts-grids.css&yui/2.5.1/build/container/assets/skins/sam/container.css&platforms/vitality/disc/rm/disclosure-1.1.css">
+    <link rel="stylesheet" type="text/css" href="http://l.yimg.com/jb/css/default_1a7a7a133c38efac47724d270b2dcd20.css" /><link rel="stylesheet" type="text/css" href="http://l.yimg.com/jb/css/base_707283781634360e09d3f67a2fe1c9aa.css" />    <meta property="og:title" content="Loca Luna" /><meta property="og:site_name" content="Yahoo! Upcoming" /><meta name="title" content="Loca Luna" />  </head>
+  <body>
+    <div id="doc4">        
+      <div id="up-hd">
+        <div id="up-hd-user-websearch">
+          <div id="up-hd-user">
+	    	      <span>Welcome, Guest</span>
+	      <a href="https://login.yahoo.com/config/login_verify2?.pd=c%3D7VX_qHOp2e4WEc1FoX0E7L8-&.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3Dhttp%253A%252F%252Fupcoming.yahoo.com%252Fvenue%252F83034%252FGA%252FAtlanta%252FLoca-Luna%252F&.intl=us&.src=upcm">Sign In</a> |
+	      <a href="https://login.yahoo.com/config/eval_register?.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3Dhttp%253A%252F%252Fupcoming.yahoo.com%252Fvenue%252F83034%252FGA%252FAtlanta%252FLoca-Luna%252F&.intl=us&.src=upcm">Sign Up</a> |
+	        	    	    <a href="/help/">Help</a>
+                  </div>           <div id="up-hd-websearch">
+            <form id="up-hd-websearch-form" action="http://search.yahoo.com/search">
+              <div class="up-inline">
+                <label for="up-hd-websearch-q">Web search query term</label>
+                <input id="up-hd-websearch-q" name="p" type="text">
+                <button id="up-hd-websearch-button-go" class="up-palette2">Web Search</button>                                                
+              </div>
+            </form>
+          </div>         </div>         <div id="up-hd-logo-search-nav" class="up-palette1">
+          <div id="up-hd-search">
+           <a id="up-hd-search-logo" class="up-palette1" href="/">Upcoming</a>
+            <form id="up-hd-search-form" action="/search/">
+              <input type="hidden" id="up-hd-search-action-type" name="type" value="events">
+              <input type="hidden" id="up-hd-search-radius-toggle" name="rt" value="1">
+              <input type="hidden" id="up-hd-search-rollup-toggle" name="rollup" value="">
+
+              <span id="search-form-body">
+                <label for="up-hd-search-query">Search <span id="up-hd-search-query-label">Events</span></label>
+                <input id="up-hd-search-query" class="up-palette1 up-hd-search-query-notwide" name="q" type="text" value=""/>
+                <label for="up-hd-search-location" id="up-hd-search-location-label">City, State or Zip</label>
+                <input id="up-hd-search-location" class="up-palette1 up-hd-search-query-notwide  " name="loc" type="text" value="Carlsruhe" />
+                <div id="up-hd-search-buttons">
+                  <button id="up-hd-search-button-go" class="up-palette1">Search <span id="up-hd-search-button-label">Events</span></button>
+                  <button id="up-hd-search-button-change" class="up-palette1">Change Search Type</button>
+                </div>
+                <div id="up-hd-search-change" class="yuimenu">
+                  <div class="bd">
+                    <ul class="first-of-type">
+                      <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 up-hd-search-change-current" title="events" href="/event/">Events</a></li>
+                      <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 "  title="venues" href="/venue/">Venues</a></li>
+                      <!-- <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 " title="performers" href="/performer/">Performers</a></li> -->
+                      <li class="yuimenuitem"><a class="yuimenuitemlabel up-palette2 " title="users" href="/friend/">Upcoming Users</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </span>
+            </form>
+          </div>           <ul id="up-hd-nav">
+            <li id="home"><a id="up-hd-nav-home" href="/">Home</a></li>
+            <li id="events">
+              <a href="/myevents/" id="up-hd-nav-events-link" class="up-hd-nav-menu-link">My Events</a>
+              <a href="/myevents/" id="up-hd-nav-events" class="up-hd-nav-menubtn up-palette2">More Events Links</a>
+                <div class="up-hd-nav-menu-container">
+                <div id="up-hd-nav-events-menu" class="yuimenu">
+                <div class="bd">
+                  <ul class="first-of-type">
+                    <li class="yuimenuitem"><a href="/myevents/">My Events</a></li>
+                    <li class="yuimenuitem"><a href="/myvenues/">My Venues</a></li>
+                    <li class="yuimenuitem"><a href="/group/">My Groups</a></li>
+                    <li class="yuimenuitem"><a href="/history/myevents/">My Scrapbook</a></li>
+                    <li class="yuimenuitem"><a href="/activity/">What's New For You</a></li>
+                    </ul> 
+                  </div>
+                  </div>
+                  </div>
+            </li>
+            <li id="friends">
+              <a href="/friend/" id="up-hd-nav-friends-link" class="up-hd-nav-menu-link">Friends</a>
+              <a href="/friend/" id="up-hd-nav-friends" class="up-hd-nav-menubtn up-palette2">More Friends Links</a>
+              <div class="up-hd-nav-menu-container">
+                <div id="up-hd-nav-friends-menu" class="yuimenu">
+                  <div class="bd">
+                    <ul class="first-of-type">
+                      <li class="yuimenuitem"><a href="/friend/event/">Friends' Events</a></li>
+                      <li class="yuimenuitem"><a href="/friend/">Friends List</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li id="more">
+              <a href="/more/" id="up-hd-nav-more-link" class="up-hd-nav-menu-link">More</a>
+              <a href="/more/" id="up-hd-nav-more" class="up-hd-nav-menubtn up-palette2">More Helpful Links</a>
+              <div class="up-hd-nav-menu-container">
+                <div id="up-hd-nav-more-menu" class="yuimenu">
+                  <div class="bd">
+                    <ul class="first-of-type">
+                      <li class="yuimenuitem"><a href="/group/">Groups</a></li>
+                      <li class="yuimenuitem"><a href="/place/">Places</a></li>
+                      <li class="yuimenuitem"><a href="/news/">News Blog</a></li>                                                                
+                      <li class="yuimenuitem"><a href="/badge/">Upcoming Badges</a></li>
+                      <li class="yuimenuitem"><a href="/services/api/">Developers API</a></li>
+                      <li class="yuimenuitem"><a href="http://community.upcoming.yahoo.com/">Suggestion Board</a></li>                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li id="add"><a id="up-hd-nav-add" class="up-palette2" href="/event/add/">Add An Event</a></li>
+            <li id="up-hd-nav-logo-container"><a id="up-hd-nav-logo" class="up-palette1" href="http://www.yahoo.com/">Yahoo!</a></li>
+          </ul>         </div>               </div>       <div id="up-bd">
+  <div id="up-followvenue-status" class="status followvenue-status"></div>
+<div id="yup-container"></div>
+
+             <div style="width:100%">
+               
+<div class="yui-g">
+  <div class="yui-u first">
+    
+    <div id="venue" class="location vcard">
+      <div class="venue-title">
+        <span class="fn org venue-title-text">
+          Loca Luna        </span>
+        <span class="venue-follower-container">
+          <div class="up-venue-follower venue-follower-83034"><div class="venue-id">83034</div><a class="up-add-btn unfollow-venue-link" href="?unfollowvenue=83034">Remove from My Venues</a><a class="up-add-btn follow-venue-link" href="?followvenue=83034">Add to My Venues</a></div>        </span>
+      </div>
+
+        <div style="padding: 10px;">
+        <div class="address adr"><span class="street-address">836 Juniper St Ne</span><br />
+          <span class="locality">Atlanta</span>, <span class="region">Georgia</span> <span class="postal-code">30308</span><br />
+          <span class="country">United States                                </div> <!-- /.address -->
+        
+                
+        
+        <div style="margin-top: 16px; margin-bottom: 8px;">
+                    <a href="https://login.yahoo.com/config/eval_register?.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3D%252Fvenue%252F83034%252FGA%252FAtlanta%252FLoca-Luna%252F&.intl=us&.src=upcm">Sign Up</a> or <a href="https://login.yahoo.com/config/login_verify2?.pd=c%3D7VX_qHOp2e4WEc1FoX0E7L8-&.done=http%3A%2F%2Fupcoming.yahoo.com%2Fdetect%2F%3Fr%3D%252Fvenue%252F83034%252FGA%252FAtlanta%252FLoca-Luna%252F&.intl=us&.src=upcm">Sign In</a> to post events at this venue.
+          
+                  </div>
+        
+                <div class="byline">
+          Added on Saturday, August 25, 2007 by
+	  <a href="/user/4/;_ylt=A0LEaqe.ga9QNIIAygALbM0F;_ylu=X3oDMTB2MTEzdnYzBF9wAzEEcGlkA1YtODMwMzQEcG9zAzEEc2VjA3ZkZXQ-;_ylv=3">Upcoming Robot</a>
+	  	  <div class="mapping">
+	    <a href="http://local.yahoo.com/details?id=13692608">See this venues Business Listing at Yahoo! Local!</a>
+	  </div>
+	            <br />
+          <br />
+          <a href="/user/4/sendnote/"><img src="http://l.yimg.com/a/i/nt/ic/ut/alt3/mail12_1.gif" width="12" height="12" border="0" /> Send a Note to the user who added this venue</a><br />
+          <a href="/flag/venue/83034/"><img src="http://l.yimg.com/a/i/nt/ic/ut/bsc/flag12_1.gif" width="12" height="12" border="0" /> Report a Problem (Abuse, Duplicate, etc.)</a><br /><br />
+          
+          
+          
+        </div>
+        
+        
+      </div>
+
+    </div>
+      <span class="geo" style="visibility:hidden">
+    <abbr class="latitude" title="33.7774860000">33.7774860000</abbr> 
+    <abbr class="longitude" title="-84.3828230000">-84.3828230000</abbr>
+  </span>
+    </div>
+  <script type="text/javascript">
+    businessList = undefined;
+  </script>
+
+  <script type="text/javascript">
+	  businessList = undefined;
+  </script>
+  <div class="yui-u">
+          <div class="map">
+        <div id="staticMapContainer" style="height: 240px; width: 400px;">
+            <a href="http://maps.yahoo.com/maps_result.php?addr=836+Juniper+St+Ne&csz=Atlanta%2CGA%2C30308&country=US&mag=5"><img src="http://gws2.maps.yahoo.com/MapImage?appid=upcoming&clat=33.7774860000&clon=-84.3828230000&zoom=15&imh=240&imw=450&mflags=YKM&imi=mrk_str" /></a>
+        </div>
+
+        <form style="display:none;">
+          <input type="hidden" id="mapLat" value="33.7774860000" />
+          <input type="hidden" id="mapLon" value="-84.3828230000" />
+          <input type="hidden" id="woeRadius" value="500" />
+          <input type="hidden" id="woeConfidence" value="87" />
+        </form>
+      </div>
+            <div class="directions">
+        <a href="http://maps.yahoo.com/dd?taddr=836+Juniper+St+Ne&tcsz=Atlanta%2CGA%2C30308&tcountry=US">Driving directions</a> / <a href="http://maps.yahoo.com/maps_result.php?addr=836+Juniper+St+Ne&csz=Atlanta%2CGA%2C30308&country=US&mag=5">larger map</a>
+      </div>
+      
+            
+        </div>
+</div>
+ <div class="syndication_widget" >
+  <div class="widget_button" >
+    <a href="http://upcoming.yahoo.com/syndicate/v2/venue/83034" class="clicker" alt="Syndicate This"><img 
+          src="http://l.yimg.com/jb/images/subscribe_button_53419a87b08161754501deddb5d9d0b9.gif" width="96" height="22" 
+          border="0" align="absmiddle" /></a>
+  </div>
+  <div id="venue_83034_syndication" class="clicker_menu">
+    <div class="hd"></div>
+    <div class="bd">
+      <b>Subscribe Options</b> (<a href="" style="text-align: center" class="clicker_close">Close</a>)
+      <hr />
+      <ul>
+        <li>
+          <a href="http://upcoming.yahoo.com/syndicate/v2/venue/83034" class="xml">XML</a> 
+          <a href="http://upcoming.yahoo.com/syndicate/v2/venue/83034">Subscribe to RSS feed</a>
+        </li>
+        
+                <li>
+          <a href="webcal://upcoming.yahoo.com/calendar/v2/venue/83034" class="xml">iCal</a> 
+          <a href="webcal://upcoming.yahoo.com/calendar/v2/venue/83034">Add to iCal calendar</a> 
+          <a href="http://upcoming.yahoo.com/calendar/v2/venue/83034"><img src="http://l.yimg.com/a/i/nt/ic/ut/bsc/save12_1.gif" border="0" width="12" height="12" title="Download iCal File" /></a>
+        </li>
+        
+                <li>
+          <a href="http://www.google.com/calendar/render?cid=http%3A%2F%2Fupcoming.yahoo.com%2Fcalendar%2Fv2%2Fvenue%2F83034" class="xml">gCal</a> 
+          <a href="http://www.google.com/calendar/render?cid=http%3A%2F%2Fupcoming.yahoo.com%2Fcalendar%2Fv2%2Fvenue%2F83034">Add to Google Calendar</a>
+        </li>
+                        
+        <li>
+          <a href="http://add.my.yahoo.com/content?.intl=us&url=http%3A%2F%2Fupcoming.yahoo.com%2Fsyndicate%2Fv2%2Fvenue%2F83034"><img src="http://l.yimg.com/a/i/us/my/addtomyyahoo4.gif" width="91" height="17" border="0" align="middle" alt="Add to My Yahoo!"></a>
+          <a href="http://add.my.yahoo.com/content?.intl=us&url=http%3A%2F%2Fupcoming.yahoo.com%2Fsyndicate%2Fv2%2Fvenue%2F83034">Add to My Yahoo!</a>
+        </li>
+
+        
+      </ul>
+    </div>
+    <div class="ft"></div>
+  </div>
+</div>
+<script type="text/javascript" language="JavaScript1.2">
+         g_subscribe_button = 'http://l.yimg.com/jb/images/subscribe_button_53419a87b08161754501deddb5d9d0b9.gif';
+        g_subscribe_button_over = 'http://l.yimg.com/jb/images/subscribe_button_over_2970004f489014605805845ee15f8743.gif';
+        g_subscribe_button_press = 'http://l.yimg.com/jb/images/subscribe_button_press_d4795e1b4cf9c37b9024b1ae606bd280.gif';
+ </script>
+<br clear="left" />
+<ul id="scopeTabs">
+<li><a href="?show=upcoming-only" class="active">Upcoming Events</a></li>
+<li><a href="?show=past-only" >Past Events Here</a></li>
+</ul>
+<table style="margin-bottom: 20px;">
+  <tr class="header">
+    <td>Date</td> 
+    <td>Event Name</td>
+    <td align="center">Comments</td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 23          </td>
+    <td class="even">
+      <a href="/event/9787765/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIAywALbM0F;_ylu=X3oDMTE1c29haGhqBF9wAzEEcGlkA0UtOTc4Nzc2NQRwb3MDMQRzZWMDdmRldGVmdXQ-;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Nov 24          </td>
+    <td class="odd">
+      <a href="/event/9787761/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIAzAALbM0F;_ylu=X3oDMTE1ZWY1dDljBF9wAzEEcGlkA0UtOTc4Nzc2MQRwb3MDMgRzZWMDdmRldGVmdXQ-;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 27          </td>
+    <td class="even">
+      <a href="/event/9787757/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIAzQALbM0F;_ylu=X3oDMTE1dWpwcDZjBF9wAzEEcGlkA0UtOTc4Nzc1NwRwb3MDMwRzZWMDdmRldGVmdXQ-;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Nov 28          </td>
+    <td class="odd">
+      <a href="/event/9787748/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIAzgALbM0F;_ylu=X3oDMTE1OGN0dWw2BF9wAzEEcGlkA0UtOTc4Nzc0OARwb3MDNARzZWMDdmRldGVmdXQ-;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Nov 29          </td>
+    <td class="even">
+      <a href="/event/9787753/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIAzwALbM0F;_ylu=X3oDMTE1bTBlYTZ2BF9wAzEEcGlkA0UtOTc4Nzc1MwRwb3MDNQRzZWMDdmRldGVmdXQ-;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Nov 30          </td>
+    <td class="odd">
+      <a href="/event/9787766/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA0AALbM0F;_ylu=X3oDMTE1dnRpNnBtBF9wAzEEcGlkA0UtOTc4Nzc2NgRwb3MDNgRzZWMDdmRldGVmdXQ-;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 01          </td>
+    <td class="even">
+      <a href="/event/10053431/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA0QALbM0F;_ylu=X3oDMTE2NzdmMzFjBF9wAzEEcGlkA0UtMTAwNTM0MzEEcG9zAzcEc2VjA3ZkZXRlZnV0;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 04          </td>
+    <td class="odd">
+      <a href="/event/10053427/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA0gALbM0F;_ylu=X3oDMTE2N2N1Y3BqBF9wAzEEcGlkA0UtMTAwNTM0MjcEcG9zAzgEc2VjA3ZkZXRlZnV0;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 05          </td>
+    <td class="even">
+      <a href="/event/10053396/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA0wALbM0F;_ylu=X3oDMTE2bGs4aW43BF9wAzEEcGlkA0UtMTAwNTMzOTYEcG9zAzkEc2VjA3ZkZXRlZnV0;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 06          </td>
+    <td class="odd">
+      <a href="/event/10053408/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA1AALbM0F;_ylu=X3oDMTE3cHV2bTR2BF9wAzEEcGlkA0UtMTAwNTM0MDgEcG9zAzEwBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 07          </td>
+    <td class="even">
+      <a href="/event/10053436/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA1QALbM0F;_ylu=X3oDMTE3dXM2OWVxBF9wAzEEcGlkA0UtMTAwNTM0MzYEcG9zAzExBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 08          </td>
+    <td class="odd">
+      <a href="/event/10053432/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA1gALbM0F;_ylu=X3oDMTE3dmY5c2U1BF9wAzEEcGlkA0UtMTAwNTM0MzIEcG9zAzEyBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 11          </td>
+    <td class="even">
+      <a href="/event/10053428/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA1wALbM0F;_ylu=X3oDMTE3Z29hNWZpBF9wAzEEcGlkA0UtMTAwNTM0MjgEcG9zAzEzBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 12          </td>
+    <td class="odd">
+      <a href="/event/10053397/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA2AALbM0F;_ylu=X3oDMTE3dGY4OTlsBF9wAzEEcGlkA0UtMTAwNTMzOTcEcG9zAzE0BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 13          </td>
+    <td class="even">
+      <a href="/event/10053409/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA2QALbM0F;_ylu=X3oDMTE3ZXRtNnNlBF9wAzEEcGlkA0UtMTAwNTM0MDkEcG9zAzE1BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 14          </td>
+    <td class="odd">
+      <a href="/event/10053437/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA2gALbM0F;_ylu=X3oDMTE3ZWUwNW40BF9wAzEEcGlkA0UtMTAwNTM0MzcEcG9zAzE2BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 15          </td>
+    <td class="even">
+      <a href="/event/10053433/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA2wALbM0F;_ylu=X3oDMTE3OXM5NmNhBF9wAzEEcGlkA0UtMTAwNTM0MzMEcG9zAzE3BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 18          </td>
+    <td class="odd">
+      <a href="/event/10053429/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA3AALbM0F;_ylu=X3oDMTE3MGthYnZmBF9wAzEEcGlkA0UtMTAwNTM0MjkEcG9zAzE4BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 19          </td>
+    <td class="even">
+      <a href="/event/10053398/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA3QALbM0F;_ylu=X3oDMTE3aTllNjJvBF9wAzEEcGlkA0UtMTAwNTMzOTgEcG9zAzE5BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 20          </td>
+    <td class="odd">
+      <a href="/event/10053410/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA3gALbM0F;_ylu=X3oDMTE3NmdsNWI0BF9wAzEEcGlkA0UtMTAwNTM0MTAEcG9zAzIwBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 21          </td>
+    <td class="even">
+      <a href="/event/10053438/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA3wALbM0F;_ylu=X3oDMTE3aHNoaTlpBF9wAzEEcGlkA0UtMTAwNTM0MzgEcG9zAzIxBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 22          </td>
+    <td class="odd">
+      <a href="/event/10053434/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA4AALbM0F;_ylu=X3oDMTE3aHVsdmhzBF9wAzEEcGlkA0UtMTAwNTM0MzQEcG9zAzIyBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 25          </td>
+    <td class="even">
+      <a href="/event/10053430/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA4QALbM0F;_ylu=X3oDMTE3ODc5cjY2BF9wAzEEcGlkA0UtMTAwNTM0MzAEcG9zAzIzBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 26          </td>
+    <td class="odd">
+      <a href="/event/10053399/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA4gALbM0F;_ylu=X3oDMTE3czlnZWQ4BF9wAzEEcGlkA0UtMTAwNTMzOTkEcG9zAzI0BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 27          </td>
+    <td class="even">
+      <a href="/event/10053411/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA4wALbM0F;_ylu=X3oDMTE3M3A5cHAwBF9wAzEEcGlkA0UtMTAwNTM0MTEEcG9zAzI1BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Dec 28          </td>
+    <td class="odd">
+      <a href="/event/10053439/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA5AALbM0F;_ylu=X3oDMTE3Z3BucnBoBF9wAzEEcGlkA0UtMTAwNTM0MzkEcG9zAzI2BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Dec 29          </td>
+    <td class="even">
+      <a href="/event/10053435/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA5QALbM0F;_ylu=X3oDMTE3OTF2aW5yBF9wAzEEcGlkA0UtMTAwNTM0MzUEcG9zAzI3BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 01          </td>
+    <td class="odd">
+      <a href="/event/10156660/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA5gALbM0F;_ylu=X3oDMTE3aG1pdnY3BF9wAzEEcGlkA0UtMTAxNTY2NjAEcG9zAzI4BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 02          </td>
+    <td class="even">
+      <a href="/event/10156636/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA5wALbM0F;_ylu=X3oDMTE3a29jbzJmBF9wAzEEcGlkA0UtMTAxNTY2MzYEcG9zAzI5BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 03          </td>
+    <td class="odd">
+      <a href="/event/10156648/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA6AALbM0F;_ylu=X3oDMTE3ZTVhNDg1BF9wAzEEcGlkA0UtMTAxNTY2NDgEcG9zAzMwBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 04          </td>
+    <td class="even">
+      <a href="/event/10156667/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA6QALbM0F;_ylu=X3oDMTE3cmRuYnFwBF9wAzEEcGlkA0UtMTAxNTY2NjcEcG9zAzMxBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 05          </td>
+    <td class="odd">
+      <a href="/event/10156664/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA6gALbM0F;_ylu=X3oDMTE3aGVocmJqBF9wAzEEcGlkA0UtMTAxNTY2NjQEcG9zAzMyBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 08          </td>
+    <td class="even">
+      <a href="/event/10156661/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA6wALbM0F;_ylu=X3oDMTE3OTg0ODFrBF9wAzEEcGlkA0UtMTAxNTY2NjEEcG9zAzMzBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 09          </td>
+    <td class="odd">
+      <a href="/event/10156637/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA7AALbM0F;_ylu=X3oDMTE3a2FrbnY2BF9wAzEEcGlkA0UtMTAxNTY2MzcEcG9zAzM0BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 10          </td>
+    <td class="even">
+      <a href="/event/10156649/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA7QALbM0F;_ylu=X3oDMTE3cG41MHF2BF9wAzEEcGlkA0UtMTAxNTY2NDkEcG9zAzM1BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 11          </td>
+    <td class="odd">
+      <a href="/event/10156668/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA7gALbM0F;_ylu=X3oDMTE3azc2YTU3BF9wAzEEcGlkA0UtMTAxNTY2NjgEcG9zAzM2BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 12          </td>
+    <td class="even">
+      <a href="/event/10156665/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA7wALbM0F;_ylu=X3oDMTE3MTIxdXAwBF9wAzEEcGlkA0UtMTAxNTY2NjUEcG9zAzM3BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 15          </td>
+    <td class="odd">
+      <a href="/event/10156662/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA8AALbM0F;_ylu=X3oDMTE3NzdzZTE0BF9wAzEEcGlkA0UtMTAxNTY2NjIEcG9zAzM4BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 16          </td>
+    <td class="even">
+      <a href="/event/10156638/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA8QALbM0F;_ylu=X3oDMTE3ZTJkZzMyBF9wAzEEcGlkA0UtMTAxNTY2MzgEcG9zAzM5BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 17          </td>
+    <td class="odd">
+      <a href="/event/10156650/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA8gALbM0F;_ylu=X3oDMTE3a3JuMnAxBF9wAzEEcGlkA0UtMTAxNTY2NTAEcG9zAzQwBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 18          </td>
+    <td class="even">
+      <a href="/event/10156669/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA8wALbM0F;_ylu=X3oDMTE3cjluZDM1BF9wAzEEcGlkA0UtMTAxNTY2NjkEcG9zAzQxBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 19          </td>
+    <td class="odd">
+      <a href="/event/10156666/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA9AALbM0F;_ylu=X3oDMTE3OXJwc2o0BF9wAzEEcGlkA0UtMTAxNTY2NjYEcG9zAzQyBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 22          </td>
+    <td class="even">
+      <a href="/event/10156663/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA9QALbM0F;_ylu=X3oDMTE3NXN0M2kwBF9wAzEEcGlkA0UtMTAxNTY2NjMEcG9zAzQzBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 23          </td>
+    <td class="odd">
+      <a href="/event/10156639/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA9gALbM0F;_ylu=X3oDMTE3bWdsMmZzBF9wAzEEcGlkA0UtMTAxNTY2MzkEcG9zAzQ0BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 24          </td>
+    <td class="even">
+      <a href="/event/10156651/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA9wALbM0F;_ylu=X3oDMTE3a2ttdGgxBF9wAzEEcGlkA0UtMTAxNTY2NTEEcG9zAzQ1BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 25          </td>
+    <td class="odd">
+      <a href="/event/10156670/GA/Atlanta/One-World-Fridays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA.AALbM0F;_ylu=X3oDMTE3djVuamN2BF9wAzEEcGlkA0UtMTAxNTY2NzAEcG9zAzQ2BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">One World Fridays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 26          </td>
+    <td class="even">
+      <a href="/event/10208382/GA/Atlanta/Hips-and-Salsa-Saturdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA.QALbM0F;_ylu=X3oDMTE3YjhvcmQzBF9wAzEEcGlkA0UtMTAyMDgzODIEcG9zAzQ3BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Hips and Salsa Saturdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 29          </td>
+    <td class="odd">
+      <a href="/event/10189848/GA/Atlanta/All-You-Can-Eat/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA.gALbM0F;_ylu=X3oDMTE3b2Q0dHVxBF9wAzEEcGlkA0UtMTAxODk4NDgEcG9zAzQ4BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">All You Can Eat</a>
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="even">
+            Jan 30          </td>
+    <td class="even">
+      <a href="/event/10189845/GA/Atlanta/Ladies-Night/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA.wALbM0F;_ylu=X3oDMTE3bmc5Nm45BF9wAzEEcGlkA0UtMTAxODk4NDUEcG9zAzQ5BHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Ladies Night</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="even" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    <tr>
+    <td class="odd">
+            Jan 31          </td>
+    <td class="odd">
+      <a href="/event/10209217/GA/Atlanta/Latin-Corner-Thursdays/Loca-Luna/;_ylt=A0LEaqe.ga9QNIIA_AALbM0F;_ylu=X3oDMTE3N2wwNjhmBF9wAzEEcGlkA0UtMTAyMDkyMTcEcG9zAzUwBHNlYwN2ZGV0ZWZ1dA--;_ylv=3">Latin Corner Thursdays</a>
+            <img src="http://l.yimg.com/jb/images/icon_taggedmusic_fea6da0b9679ce495e82337fd3114c62.png" border="0" width="10" height="11" title="This Event was tagged as music." />
+                  
+    </td>
+    <td class="odd" align="center">
+       
+      <span class="inactive">0</span>
+          </td>
+  </tr>
+    
+</table>
+             </div>
+             
+                       <form onsubmit="javascript: return false;">
+            <input type="hidden" id="_cmb" name="_cmb" value="NGwhRhJwNG6" />
+          </form>
+        <div class="up-clearb"></div>
+      </div>       <dl id="up-ft">
+        <dt>Tools</dt>
+	<dd>
+	  <a href="/badge/">Upcoming Badges for Your Blog/Website</a> |
+	  <a href="/group/">Groups</a> |
+          <a href="/services/api/">Developers API</a>
+        </dd>
+        <dt>Help</dt>
+        <dd>
+	      <a href="/news/">News Blog</a> |
+	      <a href="/help/guidelines/">Community Guidelines</a> |
+          <a href="/help/faq/;_ylt=A0LEaqe.ga9QNIIA_QALbM0F;_ylv=3">FAQ</a> |
+	      <a href="/contact/">Contact Us</a> |
+        
+	      <a href="http://community.upcoming.yahoo.com/">Suggestions</a> |
+        
+          <a href="/help/about/">About Us</a>
+        </dd>
+        <dt class="up-ft-copyright">Copyright &copy; 2012 Yahoo! Inc. All rights reserved.</dt>
+        <dd class="up-ft-copyright">
+	  <a href="http://docs.yahoo.com/info/copyright/copyright.html">Copyright/IP Policy</a> -
+	  <a href="http://docs.yahoo.com/info/terms/">Terms of Service</a> -
+          <a href="http://privacy.yahoo.com/privacy/us/upcoming/">Privacy Policy</a> -
+          <a href="http://info.yahoo.com/relevantads/">About Our Ads</a>
+        </dd>
+      </dl>
+    </div>     <!-- getStatisfaction fastpass -->
+        <!-- Combo-handled YUI JS files: See bug 2131480 -->
+    <script src="http://l.yimg.com/d/combo?yui/2.5.1/build/utilities/utilities.js&yui/2.6.0/build/datasource/datasource-min.js&yui/2.5.1/build/autocomplete/autocomplete-min.js&yui/2.5.1/build/calendar/calendar-min.js&yui/2.5.1/build/container/container-min.js&yui/2.5.1/build/cookie/cookie-beta-min.js&yui/2.8.0r4/build/json/json-min.js&yui/2.5.1/build/menu/menu-min.js&yui/2.5.1/build/tabview/tabview-min.js&yui/2.8.0r4/build/yahoo/yahoo-min.js&yui/2.8.0r4/build/event/event-min.js&yui/2.8.0r4/build/connection/connection_core-min.js&yui/2.8.0r4/build/connection/connection-min.js&yui/2.8.0r4/build/yahoo-dom-event/yahoo-dom-event.js&yui/2.8.0r4/build/selector/selector-min.js&ult/ylc_1.9.js&ult/strip_1.12.js&platforms/vitality/disc/rm/disclosure-1.3.js"></script>
+        <script type="text/javascript" src="http://l.yimg.com/jb/js/footer.minify_f2b3e4f7be5e8a115f20c8adbf3c7716.js"></script><script type="text/javascript" src="http://l.yimg.com/jb/js/ajaxymaphack_92c417de4693273dbd618abd24b9f4a6.js"></script><script type="text/javascript" src="http://l.yimg.com/jb/js/venue_widget_a205ba4f6b082f1fd19e54f02e742e6f.js"></script><script type="text/javascript"
+src="http://l.yimg.com/d/lib/rt/rto1_78.js"></script><script>var rt_page="97348619:FRTMA"; var
+rt_ip="129.13.72.198";
+if ("function" == typeof(rt_AddVar) ){ rt_AddVar("ys", escape("A76AC442")); rt_AddVar("cr", escape(""));
+rt_AddVar("sg", escape("/SIG=1122vit04/1353679296/129.13.72.198/A76AC442")); rt_AddVar("yd", escape("2688660295"));
+}</script><noscript><img src="http://rtb.pclick.yahoo.com/images/nojs.gif?p=97348619:FRTMA"></noscript><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['I2grFkJe5kk-']='&U=13gps4s3d%2fN%3dI2grFkJe5kk-%2fC%3d289534.10399734.11039816.10073328%2fD%3dFOOT%2fB%3d4466047%2fV%3d1';
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=B0wHGtG_U0KbIxUsaHfezQ0YgQ1IxlCvgb4AC_fQ&T=181tr3ebl%2fX%3d1353679296%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d3733461228%2fH%3dc2VydmVJZD0iQjB3SEd0R19VMEtiSXhVc2FIZmV6UTBZZ1ExSXhsQ3ZnYjRBQ19mUSIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM1MzY3OTI5NTk3ODIwOSIg%2fQ%3d-1%2fS%3d1%2fJ%3dA76AC442&U=13gps4s3d%2fN%3dI2grFkJe5kk-%2fC%3d289534.10399734.11039816.10073328%2fD%3dFOOT%2fB%3d4466047%2fV%3d1"></noscript><!--QYZ FAC_DONT_USE,,98.138.38.76;;;97348619;11;--><!-- gd2-status-2 --><!-- SpaceID=97348619 loc=FSRVY noad -->
+<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['JGgrFkJe5kk-']='&U=12dop226i%2fN%3dJGgrFkJe5kk-%2fC%3d-1%2fD%3dFSRVY%2fB%3d-1%2fV%3d0';
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=B0wHGtG_U0KbIxUsaHfezQ0YgQ1IxlCvgb4AC_fQ&T=181i3vm8r%2fX%3d1353679296%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d3943936660%2fH%3dc2VydmVJZD0iQjB3SEd0R19VMEtiSXhVc2FIZmV6UTBZZ1ExSXhsQ3ZnYjRBQ19mUSIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM1MzY3OTI5NTk3ODIwOSIg%2fQ%3d-1%2fS%3d1%2fJ%3dA76AC442&U=12dop226i%2fN%3dJGgrFkJe5kk-%2fC%3d-1%2fD%3dFSRVY%2fB%3d-1%2fV%3d0"></noscript><!--QYZ CMS_NONE_SELECTED,,98.138.38.76;;FSRVY;97348619;2;--><!-- Yahoo! Web Analytics - All rights reserved --> 
+<script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"></script>
+<script type="text/javascript">
+var YWATracker = YWA.getTracker("1000487515489"); 
+YWATracker.submit();
+</script>
+<noscript> <div><img src="http://a.analytics.yahoo.com/p.pl?a=1000487515489&amp;js=no"
+width="1" height="1" alt="" /></div> </noscript>
+<!-- End of Yahoo! Web Analytics Code -->
+  </body>
+</html>
+             
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/d/lib/bc/bc_2.0.5.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=B0wHGtG_U0KbIxUsaHfezQ0YgQ1IxlCvgb4AC_fQ&T=17slf7eoc%2fX%3d1353679296%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d3251514947%2fH%3dc2VydmVJZD0iQjB3SEd0R19VMEtiSXhVc2FIZmV6UTBZZ1ExSXhsQ3ZnYjRBQ19mUSIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM1MzY3OTI5NTk3ODIwOSIg%2fS%3d1%2fJ%3dA76AC442');
+if(window.yzq_s)yzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=B0wHGtG_U0KbIxUsaHfezQ0YgQ1IxlCvgb4AC_fQ&T=180m0hc7f%2fX%3d1353679296%2fE%3d97348619%2fR%3dupcoming%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d903691324%2fH%3dc2VydmVJZD0iQjB3SEd0R19VMEtiSXhVc2FIZmV6UTBZZ1ExSXhsQ3ZnYjRBQ19mUSIgc2l0ZUlkPSI0NDY1NTUxIiB0U3RtcD0iMTM1MzY3OTI5NTk3ODIwOSIg%2fQ%3d-1%2fS%3d1%2fJ%3dA76AC442"></noscript><script language=javascript>
+(function(){window.xzq_p=function(R){M=R};window.xzq_svr=function(R){J=R};function F(S){var T=document;if(T.xzq_i==null){T.xzq_i=new Array();T.xzq_i.c=0}var R=T.xzq_i;R[++R.c]=new Image();R[R.c].src=S}window.xzq_sr=function(){var S=window;var Y=S.xzq_d;if(Y==null){return }if(J==null){return }var T=J+M;if(T.length>P){C();return }var X="";var U=0;var W=Math.random();var V=(Y.hasOwnProperty!=null);var R;for(R in Y){if(typeof Y[R]=="string"){if(V&&!Y.hasOwnProperty(R)){continue}if(T.length+X.length+Y[R].length<=P){X+=Y[R]}else{if(T.length+Y[R].length>P){}else{U++;N(T,X,U,W);X=Y[R]}}}}if(U){U++}N(T,X,U,W);C()};function N(R,U,S,T){if(U.length>0){R+="&al="}F(R+U+"&s="+S+"&r="+T)}function C(){window.xzq_d=null;M=null;J=null}function K(R){xzq_sr()}function B(R){xzq_sr()}function L(U,V,W){if(W){var R=W.toString();var T=U;var Y=R.match(new RegExp("\\\\(([^\\\\)]*)\\\\)"));Y=(Y[1].length>0?Y[1]:"e");T=T.replace(new RegExp("\\\\([^\\\\)]*\\\\)","g"),"("+Y+")");if(R.indexOf(T)<0){var X=R.indexOf("{");if(X>0){R=R.substring(X,R.length)}else{return W}R=R.replace(new RegExp("([^a-zA-Z0-9$_])this([^a-zA-Z0-9$_])","g"),"$1xzq_this$2");var Z=T+";var rv = f( "+Y+",this);";var S="{var a0 = '"+Y+"';var ofb = '"+escape(R)+"' ;var f = new Function( a0, 'xzq_this', unescape(ofb));"+Z+"return rv;}";return new Function(Y,S)}else{return W}}return V}window.xzq_eh=function(){if(E||I){this.onload=L("xzq_onload(e)",K,this.onload,0);if(E&&typeof (this.onbeforeunload)!=O){this.onbeforeunload=L("xzq_dobeforeunload(e)",B,this.onbeforeunload,0)}}};window.xzq_s=function(){setTimeout("xzq_sr()",1)};var J=null;var M=null;var Q=navigator.appName;var H=navigator.appVersion;var G=navigator.userAgent;var A=parseInt(H);var D=Q.indexOf("Microsoft");var E=D!=-1&&A>=4;var I=(Q.indexOf("Netscape")!=-1||Q.indexOf("Opera")!=-1)&&A>=4;var O="undefined";var P=2000})();
+</script><script language=javascript>
+if(window.xzq_svr)xzq_svr('http://csc.beap.bc.yahoo.com/');
+if(window.xzq_p)xzq_p('yi?bv=1.0.0&bs=(134afivn4(gid$B0wHGtG_U0KbIxUsaHfezQ0YgQ1IxlCvgb4AC_fQ,st$1353679295978209,si$4465551,sp$97348619,pv$1,v$2.0))&t=J_3-D_3');
+if(window.xzq_s)xzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://csc.beap.bc.yahoo.com/yi?bv=1.0.0&bs=(134afivn4(gid$B0wHGtG_U0KbIxUsaHfezQ0YgQ1IxlCvgb4AC_fQ,st$1353679295978209,si$4465551,sp$97348619,pv$1,v$2.0))&t=J_3-D_3"></noscript>
+<!-- w3.up.mud.yahoo.com uncompressed/chunked Fri Nov 23 06:01:34 PST 2012 -->

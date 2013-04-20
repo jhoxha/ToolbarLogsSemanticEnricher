@@ -1,0 +1,272 @@
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	wam:domain	eventful.com	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	wam:type	wam:Resource	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	wam:type	wam:Performer	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	wam:URI	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	wam:url	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	http://opengraphprotocol.org/schema/title	Kris Kristofferson	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	http://opengraphprotocol.org/schema/type	musician	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	http://opengraphprotocol.org/schema/url	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2	http://eventful.com/performers/kris-kristofferson-/P0-001-000009048-2 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	wam:domain	eventful.com	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	wam:type	wam:Resource	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	wam:type	wam:Venue	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	wam:URI	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	wam:url	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#Point	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://www.w3.org/2003/01/geo/wgs84_pos#lat	36.133366	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://www.w3.org/2003/01/geo/wgs84_pos#long	-86.7619	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://purl.org/dc/terms/title	TN State Fairgrounds Events and Concerts in Nashville - TN State Fairgrounds - Eventful	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/EventVenue	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://purl.org/dc/terms/title	TN State Fairgrounds Events and Concerts in Nashville - TN State Fairgrounds - Eventful	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://opengraphprotocol.org/schema/type	company	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://opengraphprotocol.org/schema/url	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0	http://eventful.com/nashville_tn/venues/tn-state-fairgrounds-/V0-001-000546286-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	wam:domain	eventful.com	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	wam:type	wam:Resource	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	wam:type	wam:Venue	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	wam:URI	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	wam:url	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#Point	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://www.w3.org/2003/01/geo/wgs84_pos#lat	36.205994	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://www.w3.org/2003/01/geo/wgs84_pos#long	-86.69155	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://purl.org/dc/terms/title	Grand Ole Opry House Events and Concerts in Nashville - Grand Ole Opry House - Eventful	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/EventVenue	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://purl.org/dc/terms/title	Grand Ole Opry House Events and Concerts in Nashville - Grand Ole Opry House - Eventful	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://opengraphprotocol.org/schema/type	company	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://opengraphprotocol.org/schema/url	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0	http://eventful.com/nashville_tn/venues/grand-ole-opry-house-/V0-001-000254495-0 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	wam:URI	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	wam:url	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	wam:type	wam:Resource	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	wam:type	wam:Event	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	wam:domain	eventful.com	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://www.w3.org/2003/01/geo/wgs84_pos#lat	43.0389	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://www.w3.org/2003/01/geo/wgs84_pos#long	-87.9064	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://purl.org/dc/terms/title	Indian Summer Festival in Milwaukee, WI - Sep  9, 2011 12:00 am | Eventful	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://schema.org/addressLocality	Milwaukee	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://schema.org/addressRegion	WI	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://www.w3.org/1999/xhtml/vocab#bookmark	http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	wam:hasVenue	http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	wam:domain	eventful.com	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	wam:type	wam:Resource	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	wam:type	wam:Venue	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	wam:URI	http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	wam:url	http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#Point	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://www.w3.org/2003/01/geo/wgs84_pos#lat	43.038742	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://www.w3.org/2003/01/geo/wgs84_pos#long	-87.90649	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://purl.org/dc/terms/title	Milwaukee, Wisconsin, United States Events and Concerts in Milwaukee - Milwaukee, Wisconsin, United States - Eventful	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/EventVenue	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://purl.org/dc/terms/title	Milwaukee, Wisconsin, United States Events and Concerts in Milwaukee - Milwaukee, Wisconsin, United States - Eventful	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://opengraphprotocol.org/schema/type	company	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://opengraphprotocol.org/schema/url	http://eventful.com/milwaukee_wi/venues/milwaukee-wisconsin-united-states-/V0-001-000179580-3	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://www.w3.org/1999/xhtml/vocab#description	Indian Summer Festival in Milwaukee, WI at Milwaukee, Wisconsin, United States. Indian Summer Festival Indian Summer, Inc. Dates: Sep 09 2011 - Sep 11 2...	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://www.w3.org/1999/xhtml/vocab#keywords	Indian Summer FestivalMilwaukee, Event,Indian Summer Festival,Kids & Family, Festivals, Neighborhood, community, culture, family, festival, festivals_parades, maybefamily, Milwaukee	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://opengraphprotocol.org/schema/title	Indian Summer Festival	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://opengraphprotocol.org/schema/type	activity	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://opengraphprotocol.org/schema/url	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5	http://eventful.com/milwaukee_wi/events/indian-summer-festival-/E0-001-031953638-5 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	wam:URI	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	wam:url	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	wam:type	wam:Resource	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	wam:type	wam:Event	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	wam:domain	eventful.com	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://www.w3.org/2003/01/geo/wgs84_pos#lat	43.04165	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://www.w3.org/2003/01/geo/wgs84_pos#long	-87.91798	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://purl.org/dc/terms/title	Disney Live Mickeys Music Festival in Milwaukee, WI - Nov 18, 2012  3:00 pm | Eventful	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://schema.org/addressLocality	Milwaukee	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://schema.org/addressRegion	WI	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://www.w3.org/1999/xhtml/vocab#bookmark	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	wam:hasVenue	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:domain	eventful.com	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:type	wam:Resource	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:type	wam:Venue	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:URI	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:url	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#Point	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/2003/01/geo/wgs84_pos#lat	43.04165	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/2003/01/geo/wgs84_pos#long	-87.91798	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://purl.org/dc/terms/title	Milwaukee Theatre Events and Concerts in Milwaukee - Milwaukee Theatre - Eventful	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/EventVenue	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://purl.org/dc/terms/title	Milwaukee Theatre Events and Concerts in Milwaukee - Milwaukee Theatre - Eventful	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://opengraphprotocol.org/schema/type	company	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://opengraphprotocol.org/schema/url	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://www.w3.org/1999/xhtml/vocab#description	Disney Live Mickeys Music Festival in Milwaukee, WI at Milwaukee Theatre.	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://www.w3.org/1999/xhtml/vocab#keywords	Disney Live Mickeys Music FestivalMilwaukee, Event,Disney Live Mickeys Music Festival,Kids & Family, Festivals, Performing Arts, Arts, community, culture, family, festival, festivals_parades, Milwaukee	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://opengraphprotocol.org/schema/title	Disney Live Mickeys Music Festival	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://opengraphprotocol.org/schema/type	activity	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://opengraphprotocol.org/schema/url	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2	http://eventful.com/milwaukee_wi/events/disney-live-mickeys-music-festival-/E0-001-047660585-2 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:domain	eventful.com	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:type	wam:Resource	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:type	wam:Venue	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:URI	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	wam:url	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#Point	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/2003/01/geo/wgs84_pos#lat	43.04165	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/2003/01/geo/wgs84_pos#long	-87.91798	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://purl.org/dc/terms/title	Milwaukee Theatre Events and Concerts in Milwaukee - Milwaukee Theatre - Eventful	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/EventVenue	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://purl.org/dc/terms/title	Milwaukee Theatre Events and Concerts in Milwaukee - Milwaukee Theatre - Eventful	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://opengraphprotocol.org/schema/type	company	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://opengraphprotocol.org/schema/url	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1	http://eventful.com/milwaukee_wi/venues/milwaukee-theatre-/V0-001-000238401-1 
+http://www.eventbrite.com/event/2869734453	wam:URI	http://www.eventbrite.com/event/2869734453	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	wam:url	http://www.eventbrite.com/event/2869734453	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	wam:type	wam:Resource	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	wam:type	wam:Event	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - Denver, CO - Eventbrite	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - Denver, CO	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	wam:hasVenue	http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	wam:type	wam:Resource	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	wam:type	wam:Venue	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	wam:URI	http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.w3.org/2006/vcard/ns#street-address	1717 Denver W Blvd	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.w3.org/2006/vcard/ns#locality	Golden	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.w3.org/2006/vcard/ns#region	CO	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453/_:node27e1ac1cde5a73c5a11648852f326eb5	http://www.w3.org/2006/vcard/ns#organization-name	Denver Marriott West	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://opengraphprotocol.org/schema/street-address	Denver Marriott West 1717 Denver W Blvd	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://opengraphprotocol.org/schema/locality	Golden	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://opengraphprotocol.org/schema/region	CO	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869734453	http://opengraphprotocol.org/schema/postal-code	80401	http://www.eventbrite.com/event/2869734453 
+http://www.eventbrite.com/event/2869774573	wam:URI	http://www.eventbrite.com/event/2869774573	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	wam:url	http://www.eventbrite.com/event/2869774573	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	wam:type	wam:Resource	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	wam:type	wam:Event	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - Edison, NJ - Eventbrite	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - Edison, NJ	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	wam:hasVenue	http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	wam:type	wam:Resource	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	wam:type	wam:Venue	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	wam:URI	http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	http://www.w3.org/2006/vcard/ns#locality	Edison	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573/_:node57864ed26111e657d2c128f640b8872e	http://www.w3.org/2006/vcard/ns#region	NJ	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://opengraphprotocol.org/schema/street-address		http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://opengraphprotocol.org/schema/locality	Edison	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://opengraphprotocol.org/schema/region	NJ	http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869774573	http://opengraphprotocol.org/schema/postal-code		http://www.eventbrite.com/event/2869774573 
+http://www.eventbrite.com/event/2869788615	wam:URI	http://www.eventbrite.com/event/2869788615	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	wam:url	http://www.eventbrite.com/event/2869788615	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	wam:type	wam:Resource	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	wam:type	wam:Event	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - Cleveland, OH - Eventbrite	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - Cleveland, OH	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	wam:hasVenue	http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	wam:type	wam:Resource	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	wam:type	wam:Venue	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	wam:URI	http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.w3.org/2006/vcard/ns#street-address	1989 Front St	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.w3.org/2006/vcard/ns#locality	Cuyahoga Falls	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.w3.org/2006/vcard/ns#region	OH	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615/_:node1834fe9c6493e137f55fb74878dccba0	http://www.w3.org/2006/vcard/ns#organization-name	Sheraton Suites Akron / Cuyahoga Falls	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://opengraphprotocol.org/schema/street-address	Sheraton Suites Akron / Cuyahoga Falls 1989 Front St	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://opengraphprotocol.org/schema/locality	Cuyahoga Falls	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://opengraphprotocol.org/schema/region	OH	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869788615	http://opengraphprotocol.org/schema/postal-code	44221	http://www.eventbrite.com/event/2869788615 
+http://www.eventbrite.com/event/2869800651	wam:URI	http://www.eventbrite.com/event/2869800651	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	wam:url	http://www.eventbrite.com/event/2869800651	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	wam:type	wam:Resource	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	wam:type	wam:Event	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - RTP, NC - Eventbrite	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - RTP, NC	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	wam:hasVenue	http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	wam:type	wam:Resource	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	wam:type	wam:Venue	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	wam:URI	http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	http://www.w3.org/2006/vcard/ns#locality	Durham	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651/_:node6f3fc319536c31c6bf1866f25d9f576	http://www.w3.org/2006/vcard/ns#region	NC	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://opengraphprotocol.org/schema/street-address		http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://opengraphprotocol.org/schema/locality	Durham	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://opengraphprotocol.org/schema/region	NC	http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869800651	http://opengraphprotocol.org/schema/postal-code		http://www.eventbrite.com/event/2869800651 
+http://www.eventbrite.com/event/2869810681	wam:URI	http://www.eventbrite.com/event/2869810681	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	wam:url	http://www.eventbrite.com/event/2869810681	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	wam:type	wam:Resource	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	wam:type	wam:Event	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - Washington, D.C. - Eventbrite	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - Washington, D.C.	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	wam:hasVenue	http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	wam:type	wam:Resource	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	wam:type	wam:Venue	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	wam:URI	http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	http://www.w3.org/2006/vcard/ns#locality	Washington	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681/_:noded7562f917f2444fc89c792f29a16a	http://www.w3.org/2006/vcard/ns#region	DC	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://opengraphprotocol.org/schema/street-address		http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://opengraphprotocol.org/schema/locality	Washington	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://opengraphprotocol.org/schema/region	DC	http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869810681	http://opengraphprotocol.org/schema/postal-code		http://www.eventbrite.com/event/2869810681 
+http://www.eventbrite.com/event/2869848795	wam:URI	http://www.eventbrite.com/event/2869848795	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	wam:url	http://www.eventbrite.com/event/2869848795	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	wam:type	wam:Resource	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	wam:type	wam:Event	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - Dallas, TX - Eventbrite	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - Dallas, TX	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	wam:hasVenue	http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	wam:type	wam:Resource	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	wam:type	wam:Venue	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	wam:URI	http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	http://www.w3.org/2006/vcard/ns#locality	Dallas	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795/_:nodec36c5a3da1f81de833f45efd02d8457	http://www.w3.org/2006/vcard/ns#region	TX	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://opengraphprotocol.org/schema/street-address		http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://opengraphprotocol.org/schema/locality	Dallas	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://opengraphprotocol.org/schema/region	TX	http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869848795	http://opengraphprotocol.org/schema/postal-code		http://www.eventbrite.com/event/2869848795 
+http://www.eventbrite.com/event/2869714393	wam:URI	http://www.eventbrite.com/event/2869714393	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	wam:url	http://www.eventbrite.com/event/2869714393	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	wam:type	wam:Resource	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	wam:type	wam:Event	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://purl.org/dc/terms/title	PerkinElmer Inspiring Innovation Tour - Minneapolis/St.... - Eventbrite	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/12/cal/icaltzd#vcalendar	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://www.w3.org/2002/12/cal/icaltzd#summary	PerkinElmer Inspiring Innovation Tour - Minneapolis/St. Paul, MN	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	wam:hasVenue	http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	wam:domain	eventbrite.com	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	wam:type	wam:Resource	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	wam:type	wam:Venue	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	wam:URI	http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2006/vcard/ns#Address	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.w3.org/2006/vcard/ns#street-address	3 Appletree Square	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.w3.org/2006/vcard/ns#locality	Bloomington	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.w3.org/2006/vcard/ns#region	MN	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393/_:node8521ab4d1a4e83d737574161e307943	http://www.w3.org/2006/vcard/ns#organization-name	Crowne Plaza Hotel & Suites, Minneapolis/St. Paul International Airport Hotel	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://opengraphprotocol.org/schema/latitude		http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://opengraphprotocol.org/schema/longitude		http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://opengraphprotocol.org/schema/street-address	Crowne Plaza Hotel & Suites, Minneapolis/St. Paul International Airport Hotel 3 Appletree Square	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://opengraphprotocol.org/schema/locality	Bloomington	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://opengraphprotocol.org/schema/region	MN	http://www.eventbrite.com/event/2869714393 
+http://www.eventbrite.com/event/2869714393	http://opengraphprotocol.org/schema/postal-code	55425	http://www.eventbrite.com/event/2869714393 
